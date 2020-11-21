@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;1,300&display=swap');
+/* Header CSS start */
+.header{
+    background-color: #87509c;
+    height: 597px;
+    width: 100%;
+}
+.nav-link{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    padding-right: 1.5rem!important;
+
+}
+.navbar{
+    padding: 1.5rem 0rem;
+}
+.front-content{
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+.front-content h1{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 0 115px;
+    
+}
+.btn-work{
+    background-color: #eb7d4b;
+    color: #ffffff;
+    border: none;
+    padding: 25px 80px;
+    margin-top: 40px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.btn-work:hover{
+    background-color: black;
+    transform: 0.7s;
+}
+/* Header CSS End */
+
+/* Service CSS Start */
+.service-area{
+    width: 100%;
+    height: 600px;
+    background-color: #17c2a4;
+    padding: 100px 0;
+    
+}
+.s-head-font{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    padding-bottom: 5px;
+}
+.s-border{
+    width: 100px;
+    height: 5px;
+    background-color: #14a58c;
+    margin: auto;
+}
+.s-pera{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 225px 45px 225px
+}
+.service-point{
+    text-align: center;
+}
+.s-provide{
+    text-align: center;
+    padding: 10px 20px;
+}
+.s-provide img{
+    height: 30%;
+}
+.s-provide h6{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.s-provide p{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+/* Services CSS End */
+
+/* Team-Area CSS Start */
+.team-area{
+    background-color: #e7f1f8;
+    width: 100%;
+    height: 750px;
+    padding: 100px 0;
+    
+}
+.t-border{
+    width: 100px;
+    height: 5px;
+    background-color: #c8d9e5;
+    margin: auto;
+}
+.t-pera{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    color: #3c4761;
+    font-size: 20px;
+    padding: 15px 0px 45px 0;
+}
+.team-point{
+    text-align: center;
+}
+.t-head-font{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #3c4761;
+    padding-bottom: 5px;
+}
+.team-last{
+    text-align: center;
+    padding: 10px 40px;
+}
+.team-last img{
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+.team-last h6{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.team-last small{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #30bae7;
+}
+.team-last p{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    color:#3c4761;
+    margin-top: 20px;
+}
+/* Team-Area CSS End */
+
+/* Skill-Area CSS Start */
+.skill-area{
+    width: 100%;
+    height: 650px;
+    padding: 100px 0;  
+}
+.skill-pera{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    color: #3c4761;
+    font-size: 20px;
+    padding: 15px 225px 45px 225px;
+}
+.skill-content{
+    text-align: center;
+    padding: 20px 70px;
+}
+.skill-content h6{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 20px 0;
+    font-size: 20px;
+}
+/* Skill-Area CSS End */
+
+
+
+/* Touch-Area CSS Start */
+.touch-area{
+    background-color: #3c5499;
+    width: 100%;
+    height: 820px;
+    padding: 100px 0;
+}
+.touch-border{
+    width: 100px;
+    height: 5px;
+    background-color: #273a71;
+    margin: auto;
+}
+.touch-pera{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    color: #fff;
+  
+    padding: 15px 0 45px 0;
+}
+.touch-input{
+    background-color: #273a71;
+    padding: ;
+}
+.touch-row{
+    padding: 0px 170px
+}
+.touch-bottom{
+    margin-bottom: 25px;
+}
+.form-control{
+    border: 1px solid #273a71;
+}
+.btn-message{
+    background-color: #30bae7;
+    color: #ffffff;
+    border: none;
+    padding: 25px 80px;
+    margin-top: 40px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.btn-message:hover{
+    transition: 0.7s;
+    background-color: rgb(1, 92, 24);
+}
+.btn-send{
+    text-align: center;
+}
+/* Touch-Area CSS End */
+
+/* Footer-Area CSS Start */
+.footer-area{
+    background-color: #344b8e;
+
+}
+.footer-nav{
+    flex-direction: row;
+}
+.footer-nav li a{
+    padding: 30px!important;
+}
+.footer-nav li a:hover{
+    background-color: cornflowerblue;
+}
+/* Footer-Area CSS End */
